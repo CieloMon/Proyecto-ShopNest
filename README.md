@@ -9,3 +9,5 @@ El proyecto está desarrollado en Python, utilizando el editor Visual Studio Cod
 
 Justificación:
 Se eligió Python porque es un lenguaje claro, flexible y con muchas posibilidades para seguir mejorando el sistema en el futuro. Además, su enfoque permite aplicar una estructura orientada a objetos, lo que hace que el proyecto sea más fácil de mantener y ampliar conforme evolucione.
+
+Nota: Este programa se ejecuta en Python 3.13 o superior desde Visual Studio Code. No requiere configuraciones adicionales.
