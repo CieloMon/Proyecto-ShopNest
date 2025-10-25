@@ -1,4 +1,4 @@
-# Proyecto-ShopNest
+# Proyecto ShopNest
 Proyecto ShopNest
 
 Descripción del proyecto:
