@@ -1,5 +1,4 @@
 # Proyecto ShopNest
-Proyecto ShopNest
 
 Descripción del proyecto:
 ShopNest es una plataforma de comercio electrónico creada con el propósito de apoyar a emprendedores locales y globales, facilitando un espacio digital donde puedan ofrecer sus productos de manera accesible, moderna y organizada.
