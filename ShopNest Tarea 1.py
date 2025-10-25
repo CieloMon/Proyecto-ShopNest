@@ -1,7 +1,7 @@
 # ------------------------------
 # Proyecto: ShopNest
 # Autora: Cielo Liliana Monterrubio Martínez
-# Descripción: Estructura base orientada a objetos para el e-commerce ShopNest
+# Descripción: Estructura orientada a objetos para el e-commerce ShopNest
 # ------------------------------
 
 # Clase base
