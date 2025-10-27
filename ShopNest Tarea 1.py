@@ -94,7 +94,7 @@ class Notificacion:
         self.leido = True
 
 
-# Ejemplo rápido de prueba
+# Ejemplo de prueba
 if __name__ == "__main__":
     producto1 = Producto(1, "Playera ShopNest", "Camiseta con logo", 250.0, 20, 101)
     item = ItemCarrito(producto1, 2)
